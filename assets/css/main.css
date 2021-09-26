@@ -103,7 +103,6 @@
 /* slider */
 .slider{
     padding-top:50%;
-    background: url('/assets/img/clock__london.jpg') no-repeat center / cover;
     opacity:0.9;
     position: relative;
     background-position: right bottom;
